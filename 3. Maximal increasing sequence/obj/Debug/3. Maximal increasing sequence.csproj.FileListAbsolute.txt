@@ -1,0 +1,5 @@
+D:\Projects\Homework Arrays\Homework-Arrays\Homework Arrays\3. Maximal increasing sequence\bin\Debug\_3.Maximal_increasing_sequence.exe.config
+D:\Projects\Homework Arrays\Homework-Arrays\Homework Arrays\3. Maximal increasing sequence\bin\Debug\_3.Maximal_increasing_sequence.exe
+D:\Projects\Homework Arrays\Homework-Arrays\Homework Arrays\3. Maximal increasing sequence\bin\Debug\_3.Maximal_increasing_sequence.pdb
+D:\Projects\Homework Arrays\Homework-Arrays\Homework Arrays\3. Maximal increasing sequence\obj\Debug\_3.Maximal_increasing_sequence.exe
+D:\Projects\Homework Arrays\Homework-Arrays\Homework Arrays\3. Maximal increasing sequence\obj\Debug\_3.Maximal_increasing_sequence.pdb

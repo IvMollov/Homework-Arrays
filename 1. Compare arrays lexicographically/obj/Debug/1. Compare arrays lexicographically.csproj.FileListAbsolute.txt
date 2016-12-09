@@ -1,0 +1,5 @@
+D:\Projects\Homework Arrays\Homework-Arrays\Homework Arrays\1. Compare arrays lexicographically\bin\Debug\_1.Compare_arrays_lexicographically.exe.config
+D:\Projects\Homework Arrays\Homework-Arrays\Homework Arrays\1. Compare arrays lexicographically\bin\Debug\_1.Compare_arrays_lexicographically.exe
+D:\Projects\Homework Arrays\Homework-Arrays\Homework Arrays\1. Compare arrays lexicographically\bin\Debug\_1.Compare_arrays_lexicographically.pdb
+D:\Projects\Homework Arrays\Homework-Arrays\Homework Arrays\1. Compare arrays lexicographically\obj\Debug\_1.Compare_arrays_lexicographically.exe
+D:\Projects\Homework Arrays\Homework-Arrays\Homework Arrays\1. Compare arrays lexicographically\obj\Debug\_1.Compare_arrays_lexicographically.pdb

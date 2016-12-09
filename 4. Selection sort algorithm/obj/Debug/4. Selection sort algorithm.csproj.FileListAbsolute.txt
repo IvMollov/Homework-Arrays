@@ -1,0 +1,5 @@
+D:\Projects\Homework Arrays\Homework-Arrays\Homework Arrays\4. Selection sort algorithm\bin\Debug\_4.Selection_sort_algorithm.exe.config
+D:\Projects\Homework Arrays\Homework-Arrays\Homework Arrays\4. Selection sort algorithm\bin\Debug\_4.Selection_sort_algorithm.exe
+D:\Projects\Homework Arrays\Homework-Arrays\Homework Arrays\4. Selection sort algorithm\bin\Debug\_4.Selection_sort_algorithm.pdb
+D:\Projects\Homework Arrays\Homework-Arrays\Homework Arrays\4. Selection sort algorithm\obj\Debug\_4.Selection_sort_algorithm.exe
+D:\Projects\Homework Arrays\Homework-Arrays\Homework Arrays\4. Selection sort algorithm\obj\Debug\_4.Selection_sort_algorithm.pdb
