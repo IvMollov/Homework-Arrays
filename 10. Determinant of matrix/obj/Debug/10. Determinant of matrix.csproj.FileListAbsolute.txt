@@ -1,0 +1,6 @@
+D:\Projects\Homework Arrays\Homework-Arrays\10. Determinant of matrix\bin\Debug\_10.Determinant_of_matrix.exe.config
+D:\Projects\Homework Arrays\Homework-Arrays\10. Determinant of matrix\bin\Debug\_10.Determinant_of_matrix.exe
+D:\Projects\Homework Arrays\Homework-Arrays\10. Determinant of matrix\bin\Debug\_10.Determinant_of_matrix.pdb
+D:\Projects\Homework Arrays\Homework-Arrays\10. Determinant of matrix\obj\Debug\10. Determinant of matrix.csprojResolveAssemblyReference.cache
+D:\Projects\Homework Arrays\Homework-Arrays\10. Determinant of matrix\obj\Debug\_10.Determinant_of_matrix.exe
+D:\Projects\Homework Arrays\Homework-Arrays\10. Determinant of matrix\obj\Debug\_10.Determinant_of_matrix.pdb

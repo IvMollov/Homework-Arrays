@@ -1,0 +1,5 @@
+D:\Projects\Homework Arrays\Homework-Arrays\7. Most frequent number\bin\Debug\_7.Most_frequent_number.exe.config
+D:\Projects\Homework Arrays\Homework-Arrays\7. Most frequent number\bin\Debug\_7.Most_frequent_number.exe
+D:\Projects\Homework Arrays\Homework-Arrays\7. Most frequent number\bin\Debug\_7.Most_frequent_number.pdb
+D:\Projects\Homework Arrays\Homework-Arrays\7. Most frequent number\obj\Debug\_7.Most_frequent_number.exe
+D:\Projects\Homework Arrays\Homework-Arrays\7. Most frequent number\obj\Debug\_7.Most_frequent_number.pdb

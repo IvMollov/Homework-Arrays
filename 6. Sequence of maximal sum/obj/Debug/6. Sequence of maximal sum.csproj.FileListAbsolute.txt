@@ -1,0 +1,6 @@
+D:\Projects\Homework Arrays\Homework-Arrays\6. Sequence of maximal sum\bin\Debug\_6.Sequence_of_maximal_sum.exe.config
+D:\Projects\Homework Arrays\Homework-Arrays\6. Sequence of maximal sum\bin\Debug\_6.Sequence_of_maximal_sum.exe
+D:\Projects\Homework Arrays\Homework-Arrays\6. Sequence of maximal sum\bin\Debug\_6.Sequence_of_maximal_sum.pdb
+D:\Projects\Homework Arrays\Homework-Arrays\6. Sequence of maximal sum\obj\Debug\6. Sequence of maximal sum.csprojResolveAssemblyReference.cache
+D:\Projects\Homework Arrays\Homework-Arrays\6. Sequence of maximal sum\obj\Debug\_6.Sequence_of_maximal_sum.exe
+D:\Projects\Homework Arrays\Homework-Arrays\6. Sequence of maximal sum\obj\Debug\_6.Sequence_of_maximal_sum.pdb

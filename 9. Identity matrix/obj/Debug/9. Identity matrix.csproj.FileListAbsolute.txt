@@ -1,0 +1,6 @@
+D:\Projects\Homework Arrays\Homework-Arrays\9. Identity matrix\bin\Debug\_9.Identity_matrix.exe.config
+D:\Projects\Homework Arrays\Homework-Arrays\9. Identity matrix\bin\Debug\_9.Identity_matrix.exe
+D:\Projects\Homework Arrays\Homework-Arrays\9. Identity matrix\bin\Debug\_9.Identity_matrix.pdb
+D:\Projects\Homework Arrays\Homework-Arrays\9. Identity matrix\obj\Debug\9. Identity matrix.csprojResolveAssemblyReference.cache
+D:\Projects\Homework Arrays\Homework-Arrays\9. Identity matrix\obj\Debug\_9.Identity_matrix.exe
+D:\Projects\Homework Arrays\Homework-Arrays\9. Identity matrix\obj\Debug\_9.Identity_matrix.pdb

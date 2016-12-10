@@ -1,0 +1,6 @@
+D:\Projects\Homework Arrays\Homework-Arrays\8. Sparse matrix\bin\Debug\_8.Sparse_matrix.exe.config
+D:\Projects\Homework Arrays\Homework-Arrays\8. Sparse matrix\bin\Debug\_8.Sparse_matrix.exe
+D:\Projects\Homework Arrays\Homework-Arrays\8. Sparse matrix\bin\Debug\_8.Sparse_matrix.pdb
+D:\Projects\Homework Arrays\Homework-Arrays\8. Sparse matrix\obj\Debug\8. Sparse matrix.csprojResolveAssemblyReference.cache
+D:\Projects\Homework Arrays\Homework-Arrays\8. Sparse matrix\obj\Debug\_8.Sparse_matrix.exe
+D:\Projects\Homework Arrays\Homework-Arrays\8. Sparse matrix\obj\Debug\_8.Sparse_matrix.pdb
