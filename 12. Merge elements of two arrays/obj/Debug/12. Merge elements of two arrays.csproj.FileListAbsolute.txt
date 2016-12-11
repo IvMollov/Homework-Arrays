@@ -1,0 +1,6 @@
+D:\Projects\Homework Arrays\Homework-Arrays\12. Merge elements of two arrays\bin\Debug\_12.Merge_elements_of_two_arrays.exe.config
+D:\Projects\Homework Arrays\Homework-Arrays\12. Merge elements of two arrays\bin\Debug\_12.Merge_elements_of_two_arrays.exe
+D:\Projects\Homework Arrays\Homework-Arrays\12. Merge elements of two arrays\bin\Debug\_12.Merge_elements_of_two_arrays.pdb
+D:\Projects\Homework Arrays\Homework-Arrays\12. Merge elements of two arrays\obj\Debug\12. Merge elements of two arrays.csprojResolveAssemblyReference.cache
+D:\Projects\Homework Arrays\Homework-Arrays\12. Merge elements of two arrays\obj\Debug\_12.Merge_elements_of_two_arrays.exe
+D:\Projects\Homework Arrays\Homework-Arrays\12. Merge elements of two arrays\obj\Debug\_12.Merge_elements_of_two_arrays.pdb

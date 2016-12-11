@@ -1,0 +1,6 @@
+D:\Projects\Homework Arrays\Homework-Arrays\15. Interchange elements of diagonals\bin\Debug\_15.Interchange_elements_of_diagonals.exe.config
+D:\Projects\Homework Arrays\Homework-Arrays\15. Interchange elements of diagonals\bin\Debug\_15.Interchange_elements_of_diagonals.exe
+D:\Projects\Homework Arrays\Homework-Arrays\15. Interchange elements of diagonals\bin\Debug\_15.Interchange_elements_of_diagonals.pdb
+D:\Projects\Homework Arrays\Homework-Arrays\15. Interchange elements of diagonals\obj\Debug\15. Interchange elements of diagonals.csprojResolveAssemblyReference.cache
+D:\Projects\Homework Arrays\Homework-Arrays\15. Interchange elements of diagonals\obj\Debug\_15.Interchange_elements_of_diagonals.exe
+D:\Projects\Homework Arrays\Homework-Arrays\15. Interchange elements of diagonals\obj\Debug\_15.Interchange_elements_of_diagonals.pdb

@@ -1,0 +1,6 @@
+D:\Projects\Homework Arrays\Homework-Arrays\16. Upper triangular matrix\bin\Debug\_16.Upper_triangular_matrix.exe.config
+D:\Projects\Homework Arrays\Homework-Arrays\16. Upper triangular matrix\bin\Debug\_16.Upper_triangular_matrix.exe
+D:\Projects\Homework Arrays\Homework-Arrays\16. Upper triangular matrix\bin\Debug\_16.Upper_triangular_matrix.pdb
+D:\Projects\Homework Arrays\Homework-Arrays\16. Upper triangular matrix\obj\Debug\_16.Upper_triangular_matrix.exe
+D:\Projects\Homework Arrays\Homework-Arrays\16. Upper triangular matrix\obj\Debug\_16.Upper_triangular_matrix.pdb
+D:\Projects\Homework Arrays\Homework-Arrays\16. Upper triangular matrix\obj\Debug\16. Upper triangular matrix.csprojResolveAssemblyReference.cache

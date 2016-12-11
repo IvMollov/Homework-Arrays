@@ -3,3 +3,6 @@ D:\Projects\Homework Arrays\Homework-Arrays\Homework Arrays\2. Maximal sequence 
 D:\Projects\Homework Arrays\Homework-Arrays\Homework Arrays\2. Maximal sequence of equal elements\bin\Debug\_2.Maximal_sequence_of_equal_elements.pdb
 D:\Projects\Homework Arrays\Homework-Arrays\Homework Arrays\2. Maximal sequence of equal elements\obj\Debug\_2.Maximal_sequence_of_equal_elements.exe
 D:\Projects\Homework Arrays\Homework-Arrays\Homework Arrays\2. Maximal sequence of equal elements\obj\Debug\_2.Maximal_sequence_of_equal_elements.pdb
+D:\Projects\Homework Arrays\Homework-Arrays\2. Maximal sequence of equal elements\bin\Debug\_2.Maximal_sequence_of_equal_elements.exe.config
+D:\Projects\Homework Arrays\Homework-Arrays\2. Maximal sequence of equal elements\obj\Debug\_2.Maximal_sequence_of_equal_elements.exe
+D:\Projects\Homework Arrays\Homework-Arrays\2. Maximal sequence of equal elements\obj\Debug\_2.Maximal_sequence_of_equal_elements.pdb

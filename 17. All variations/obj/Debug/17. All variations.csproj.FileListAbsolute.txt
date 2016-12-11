@@ -1,0 +1,6 @@
+D:\Projects\Homework Arrays\Homework-Arrays\17. All variations\bin\Debug\_17.All_variations.exe.config
+D:\Projects\Homework Arrays\Homework-Arrays\17. All variations\bin\Debug\_17.All_variations.exe
+D:\Projects\Homework Arrays\Homework-Arrays\17. All variations\bin\Debug\_17.All_variations.pdb
+D:\Projects\Homework Arrays\Homework-Arrays\17. All variations\obj\Debug\17. All variations.csprojResolveAssemblyReference.cache
+D:\Projects\Homework Arrays\Homework-Arrays\17. All variations\obj\Debug\_17.All_variations.exe
+D:\Projects\Homework Arrays\Homework-Arrays\17. All variations\obj\Debug\_17.All_variations.pdb

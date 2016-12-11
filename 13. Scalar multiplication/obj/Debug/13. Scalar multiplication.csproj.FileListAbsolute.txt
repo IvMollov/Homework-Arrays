@@ -1,0 +1,5 @@
+D:\Projects\Homework Arrays\Homework-Arrays\13. Scalar multiplication\bin\Debug\_13.Scalar_multiplication.exe.config
+D:\Projects\Homework Arrays\Homework-Arrays\13. Scalar multiplication\bin\Debug\_13.Scalar_multiplication.exe
+D:\Projects\Homework Arrays\Homework-Arrays\13. Scalar multiplication\bin\Debug\_13.Scalar_multiplication.pdb
+D:\Projects\Homework Arrays\Homework-Arrays\13. Scalar multiplication\obj\Debug\_13.Scalar_multiplication.exe
+D:\Projects\Homework Arrays\Homework-Arrays\13. Scalar multiplication\obj\Debug\_13.Scalar_multiplication.pdb

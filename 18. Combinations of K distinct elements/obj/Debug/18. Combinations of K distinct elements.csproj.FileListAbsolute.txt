@@ -1,0 +1,5 @@
+D:\Projects\Homework Arrays\Homework-Arrays\18. Combinations of K distinct elements\bin\Debug\_18.Combinations_of_K_distinct_elements.exe.config
+D:\Projects\Homework Arrays\Homework-Arrays\18. Combinations of K distinct elements\bin\Debug\_18.Combinations_of_K_distinct_elements.exe
+D:\Projects\Homework Arrays\Homework-Arrays\18. Combinations of K distinct elements\bin\Debug\_18.Combinations_of_K_distinct_elements.pdb
+D:\Projects\Homework Arrays\Homework-Arrays\18. Combinations of K distinct elements\obj\Debug\_18.Combinations_of_K_distinct_elements.exe
+D:\Projects\Homework Arrays\Homework-Arrays\18. Combinations of K distinct elements\obj\Debug\_18.Combinations_of_K_distinct_elements.pdb
