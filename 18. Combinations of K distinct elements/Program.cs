@@ -22,7 +22,6 @@ namespace _18.Combinations_of_K_distinct_elements
             }
         public static void Variation(int[] array, int index, int start, int end)
         {
-            Console.WriteLine("Enter index = {0}, start = {1}", index, start);
             if (index >= array.Length)
             {
                 Console.Write("(");
@@ -43,13 +42,8 @@ namespace _18.Combinations_of_K_distinct_elements
             {
                 for (int i = start; i <= end; i++)
                 {
-                    Console.WriteLine("Enter loop. i = {0}, start = {1}", i, start);
-                    Console.WriteLine("array[{0}] = {1}, because index = {2}, i = {3}", index, i, index, i);
-
                     array[index] = i;
-                    Console.WriteLine("Before recursion index = {0}, i = {1}", index, i);
                     Variation(array, index + 1, i + 1, end);
-                    Console.WriteLine("After recursion index = {0}, i = {1}", index, i);
                 }
             }
         }

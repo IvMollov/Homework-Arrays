@@ -1,0 +1,6 @@
+D:\Projects\Homework Arrays\Homework-Arrays\19. Binary search algorithm\bin\Debug\_19.Binary_search_algorithm.exe.config
+D:\Projects\Homework Arrays\Homework-Arrays\19. Binary search algorithm\obj\Debug\19. Binary search algorithm.csprojResolveAssemblyReference.cache
+D:\Projects\Homework Arrays\Homework-Arrays\19. Binary search algorithm\bin\Debug\_19.Binary_search_algorithm.exe
+D:\Projects\Homework Arrays\Homework-Arrays\19. Binary search algorithm\bin\Debug\_19.Binary_search_algorithm.pdb
+D:\Projects\Homework Arrays\Homework-Arrays\19. Binary search algorithm\obj\Debug\_19.Binary_search_algorithm.exe
+D:\Projects\Homework Arrays\Homework-Arrays\19. Binary search algorithm\obj\Debug\_19.Binary_search_algorithm.pdb

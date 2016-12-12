@@ -1,0 +1,5 @@
+D:\Projects\Homework Arrays\Homework-Arrays\20. Letters alphabet\bin\Debug\_20.Letters_alphabet.exe.config
+D:\Projects\Homework Arrays\Homework-Arrays\20. Letters alphabet\bin\Debug\_20.Letters_alphabet.exe
+D:\Projects\Homework Arrays\Homework-Arrays\20. Letters alphabet\bin\Debug\_20.Letters_alphabet.pdb
+D:\Projects\Homework Arrays\Homework-Arrays\20. Letters alphabet\obj\Debug\_20.Letters_alphabet.exe
+D:\Projects\Homework Arrays\Homework-Arrays\20. Letters alphabet\obj\Debug\_20.Letters_alphabet.pdb

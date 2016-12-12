@@ -1,0 +1,6 @@
+D:\Projects\Homework Arrays\Homework-Arrays\21. Merge sort\bin\Debug\_21.Merge_sort.exe.config
+D:\Projects\Homework Arrays\Homework-Arrays\21. Merge sort\bin\Debug\_21.Merge_sort.exe
+D:\Projects\Homework Arrays\Homework-Arrays\21. Merge sort\bin\Debug\_21.Merge_sort.pdb
+D:\Projects\Homework Arrays\Homework-Arrays\21. Merge sort\obj\Debug\21. Merge sort.csprojResolveAssemblyReference.cache
+D:\Projects\Homework Arrays\Homework-Arrays\21. Merge sort\obj\Debug\_21.Merge_sort.exe
+D:\Projects\Homework Arrays\Homework-Arrays\21. Merge sort\obj\Debug\_21.Merge_sort.pdb
